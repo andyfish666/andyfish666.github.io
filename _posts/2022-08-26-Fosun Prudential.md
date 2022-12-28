@@ -6,6 +6,6 @@ categories:
 tags:
   - link
   - Post Formats
-link: https://www.shkp.org.cn/articles/2022/01/wx363583.html
+link: https://mp.weixin.qq.com/s/5YH-7SSPV5KIwvNSycHPZw
 ---
 Received the National Outstanding Volunteer and gave the keynote speech at the award ceremony 
