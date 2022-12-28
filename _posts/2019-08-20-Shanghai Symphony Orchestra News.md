@@ -1,5 +1,5 @@
 ---
-title: "2019-08-20-Shanghai Symphony Orchestra News"
+title: "2019-08-20 Shanghai Symphony Orchestra News"
 date: 2019-08-20T17:26:00
 categories:
   - Blog
