@@ -1,5 +1,5 @@
 ---
-title: "2020-12-21-A long front-page article in Youth Daily"
+title: "2020-12-21 A long front-page article in Youth Daily"
 date: 2020-12-21T10:30:00
 categories:
   - Blog
