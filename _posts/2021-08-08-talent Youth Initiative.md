@@ -1,5 +1,5 @@
 ---
-title: "2021-08-08 talent Youth Initiative"
+title: "2021-08-08 Talent Youth Initiative of Peking University"
 date: 2021-08-08T11:30:00
 categories:
   - Blog
