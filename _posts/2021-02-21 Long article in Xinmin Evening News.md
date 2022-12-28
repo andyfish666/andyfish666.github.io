@@ -1,6 +1,6 @@
 ---
 title: "2021-02-21 Long article in Xinmin Evening News"
-date: 2021-02-21 14:23:00
+date: 2021-02-21T14:23:00
 categories:
   - Blog
 tags:
