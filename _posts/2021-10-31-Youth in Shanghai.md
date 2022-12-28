@@ -1,5 +1,5 @@
 ---
-title: "2021-10-31-Youth in Shanghai"
+title: "2021-10-31 Top Scientists Forum｜Youth in Shanghai"
 date: 2021-10-31T15:30:00
 categories:
   - Blog
