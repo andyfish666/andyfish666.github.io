@@ -1,5 +1,5 @@
 ---
-title: "2022-03-27-SGM Interview"
+title: "2022-03-27 SGM Interview"
 date: 2022-03-27T11:14:39
 categories:
   - Blog
