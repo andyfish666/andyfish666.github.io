@@ -1,5 +1,5 @@
 ---
-title: "2022-11-18 2022 Hornbill Middle School Science Talent Training Program"
+title: "2022-11-18 Hornbill Middle School Science Talent Training Program 2022"
 date: 2022-11-18T12:11:00
 categories:
   - Blog
