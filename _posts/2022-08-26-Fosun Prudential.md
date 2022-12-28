@@ -1,5 +1,5 @@
 ---
-title: "2022-08-26 2022 Fosun Prudential Youth Community Volunteer Award"
+title: "2022-08-26 Fosun Prudential Youth Community Volunteer Award 2022"
 date: 2022-08-26T21:17:00
 categories:
   - Blog
