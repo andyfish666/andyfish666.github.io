@@ -1,5 +1,5 @@
 ---
-title: "The Science Guardians series on Shanghai Science Popularization Network, Summer Vacation"
+title: "2022-07-17 The Science Guardians series on Shanghai Science Popularization Network, Summer Vacation"
 date: 2022-07-17T15:30:00
 categories:
   - Blog
