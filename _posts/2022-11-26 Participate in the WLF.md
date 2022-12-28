@@ -1,6 +1,6 @@
 ---
 title: "2022-11-26 Participate in the WLF"
-date:  2022-11-26 19:36
+date:  2022-11-26T19:36:00
 categories:
   - Blog
 tags:
