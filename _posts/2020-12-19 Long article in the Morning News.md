@@ -1,6 +1,6 @@
 ---
 title: "2020-12-19 Long article in the Morning News.md"
-date: 2020-12-19 19:51:14
+date: 2020-12-19T19:51:14
 categories:
   - Blog
 tags:
