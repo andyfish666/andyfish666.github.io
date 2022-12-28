@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Zewei Yu"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/hero-img-2.jpg"
   bio    : "Welcome to here."
   links:
     - label: "Website"
