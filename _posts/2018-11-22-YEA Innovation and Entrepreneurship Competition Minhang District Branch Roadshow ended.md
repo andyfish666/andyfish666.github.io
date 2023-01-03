@@ -8,3 +8,5 @@ tags:
   - Post Formats
 link: https://www.sohu.com/a/277210369_672245
 ---
+YEA! Innovation and Entrepreneurship Competition Minhang District Branch Roadshow ended, "Little Entrepreneur" was born!
+Yu Zewei's team won the Best Founder Award and Venture Fund
