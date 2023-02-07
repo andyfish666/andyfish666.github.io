@@ -6,6 +6,6 @@ categories:
 tags:
   - link
   - Post Formats
-link: 
+link: https://mp.weixin.qq.com/s/cDG2vCcehwLLMd1-rWK4Iw
 ---
 Campers visit Intel, Yu Zewei's insights on "Inventing the future" are published by the organizer 
