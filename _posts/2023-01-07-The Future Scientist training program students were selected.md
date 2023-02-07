@@ -1,5 +1,5 @@
 ---
-title: "2023-01-07 The Future Scientist training program students were selected"
+title: "2023-01-07 The 'Future Scientist' training program students were selected"
 date:  2023-01-07T12:00:00
 categories:
   - Blog
