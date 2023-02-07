@@ -1,5 +1,5 @@
 ---
-title: "2022-12-19 WLF Future Scientist Training Program Re-evaluation List Announced"
+title: "2022-12-19 WLF 'Future Scientist' Training Program Re-evaluation List Announced"
 date: 2022-12-19T19:30:00
 categories:
   - Blog
