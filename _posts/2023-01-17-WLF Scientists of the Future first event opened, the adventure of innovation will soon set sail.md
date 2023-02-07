@@ -1,5 +1,5 @@
 ---
-title: "2023-01-17 WLF Scientists of the Future first event opened, the adventure of innovation will soon set sail"
+title: "2023-01-17 WLF 'Scientists of the Future' first event opened, the adventure of innovation will soon set sail"
 date: 2023-01-17T19:00:00
 categories:
   - Blog
