@@ -29,7 +29,9 @@ https://destinationimagination.smugmug.com/（美国发起的比赛，所以贴�
 2017-为科技生活点赞：用乐高积木原创的电影短片，科普目前科技发展下的便捷生活。（视频）
 
 [星际移民](https://youtu.be/Mk8W5EYjwU4)
- 
+
+<a href="https://youtu.be/DHu9HGQEXkY" target="_blank">新同居时代</a>
+
 新同居时代 https://youtu.be/DHu9HGQEXkY
 健康保卫战 https://youtu.be/NtUagAgRdUI
 新梦想家园 https://youtu.be/iHEgHNgnZWE
