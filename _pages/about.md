@@ -1,10 +1,9 @@
 ---
 permalink: /about/
-title: "About"
+title: "About科研之路"
 ---
-
-## **科研之路**
 从2015年开始，学习SCRATCH语言，用SCRATCH语言创作动画、游戏，到2018年尝试用SCRATCH语言结合树莓派搭建跌倒检测智能监护系统，到2021年用PYTHON搭建AI MUSIC模型自动生成可以唤起情绪的钢琴音乐，+风投。
+Starting from 2015, I started learning the SCRATCH language, creating animations and games using SCRATCH language. By 2018, I attempted to build an intelligent fall detection monitoring system using SCRATCH language combined with Raspberry Pie. By 2021, I used PYTHON to build an AI MUSIC model to automatically generate piano music that can evoke emotions, and also used venture capital.
 
 ### **软件**
 * 2021 MAGIC MUSIC AI模型：犀牛鸟GOLD\The Fourth International Artificial Intelligence Fair -Scientific Exploration-High School-FIRST PRIZE（演示视频）
