@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Zewei Yu"
   avatar : "/assets/images/hero-img-2.jpg"
-  bio    : "Toward the moon, even if not reach, you will fall into the hands of the stars."
+  bio    : "Shoot for the moon. Even if you miss, you'll land among the stars."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
